@@ -32,6 +32,7 @@ import re
 #	sudo yum install iozone
 # 3.
 #	wget http://dl.fedoraproject.org/pub/epel/7/x86_64/x/xmlstarlet-1.6.1-1.el7.x86_64.rpm
+#   wget https://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/x/xmlstarlet-1.6.1-1.el7.x86_64.rpm
 #	yum install libxslt
 #	rpm -ivh xmlstarlet-1.6.1-1.el7.x86_64.rpm
 # 4.
